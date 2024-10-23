@@ -10,7 +10,7 @@ Here's a clickable link: [My favorite AI assistant](https://chatgpt.com/)
 
 Images look like links except with an exclamation directly in front
 
-![My Shiny Image](https://raw.githubusercontent.com/denisecase/pyshiny-penguins-dashboard-express/main/images/LocalAppRunning.JPG)
+![Batman](batman.webp)
 
 ## Reminders
 
